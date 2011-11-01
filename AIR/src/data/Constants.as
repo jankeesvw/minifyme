@@ -1,0 +1,1 @@
+package data {	/**	 * @author jankees	 */	public class Constants {		public static var accepted_file_extensions:Array = ["css","js"];	}}
